@@ -1,5 +1,5 @@
 # POS-Inventory-Management-System
-POS Inventory Management System using PHP and MySQL
+POS Inventory Management System using PHP, Javascript and MySQL
 # Administrator Profile
 ![image](https://github.com/BlitzenPrancer/POS-Inventory-Management-System/blob/main/pos%20output/profile.PNG)
 # User List
